@@ -26,18 +26,6 @@ Appropriate uses include:
 - comparing model outputs and probability thresholds;
 - teaching model evaluation, local explanation, what-if analysis, and responsible interpretation.
 
-## Out-of-Scope and Prohibited Uses
-
-This model should **not** be used for real-world decisions about individuals. It should not be used for:
-
-- hiring, promotion, or employment screening;
-- salary, compensation, or workplace evaluation decisions;
-- credit, loan, insurance, or financial eligibility decisions;
-- admissions, benefit allocation, or legal decisions;
-- any automated decision-making process that affects a person's opportunities or rights.
-
-The model output should be interpreted as an educational probability estimate, not as a judgment of personal ability, value, or future potential.
-
 ## Data
 
 The model uses the cleaned Adult Income dataset stored as `adult_cleaned.xlsx`.
